@@ -5,6 +5,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 const people = require("./people");
 
+// is req, res middleware or app.use
 app.get("/people", (req, res) => res.json(people));
 
 // Static folder / middleware

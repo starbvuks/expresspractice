@@ -12,5 +12,15 @@
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.7"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starbvuks/expresspractice.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/starbvuks/expresspractice/issues"
+  },
+  "homepage": "https://github.com/starbvuks/expresspractice#readme"
 }
